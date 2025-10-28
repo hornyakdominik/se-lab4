@@ -1,0 +1,3 @@
+# Create a ship without stocked torpedo
+GT4500,0,0,0,0
+TORPEDO,SINGLE #Can't shoot any torpedo due to having 0 torpedo
